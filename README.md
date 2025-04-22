@@ -1,5 +1,7 @@
 # Simulador de Transformações Lineares 3D
 
+![Interface da Calculadora](./screenshots/Initial.png)
+
 Este é um programa Python que utiliza a biblioteca PyQt5 para criar uma interface gráfica e a biblioteca Matplotlib para visualizar transformações lineares em vetores 3D. Ele permite aos usuários manipular vetores, aplicar rotações, reflexões e projeções, e visualizar os resultados em um gráfico 3D interativo.
 
 ## Funcionalidades
